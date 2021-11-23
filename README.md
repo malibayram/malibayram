@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malibayram91" alt="malibayram91" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/malibayra21" target="blank"><img src="https://img.shields.io/twitter/follow/malibayra21?logo=twitter&style=for-the-badge" alt="malibayra21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/malibayram21" target="blank"><img src="https://img.shields.io/twitter/follow/malibayram21?logo=twitter&style=for-the-badge" alt="malibayram21" /></a> </p>
 
 - 🌱 I’m currently learning **Tensorflow, Swift, Flutter, Angular**
 
