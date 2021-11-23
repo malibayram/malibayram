@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali Bayram</h1>
-<h3 align="center">software developer #Flutter #Firebase #Angular #TensorFlow Computer Engineering PhD Student at Yıldız Technical University in Turkey</h3>
+<h3 align="center">Computer Engineering PhD Student at Yıldız Technical University in Turkey and software developer #Flutter #Firebase #Angular #TensorFlow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malibayram91&label=Profile%20views&color=0e75b6&style=flat" alt="malibayram91" /> </p>
 
