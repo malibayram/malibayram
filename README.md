@@ -43,4 +43,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram91&" alt="malibayram91" /></p>
 
-<!-- github readme.md dosyamı nasıl oluşturduğumu merak edenler için: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<img alt='analytics' src='https://profile-counter.glitch.me/malibayram91/count.svg' width='0px'>
