@@ -53,6 +53,7 @@
 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=malibayram91&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<!---
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
@@ -94,7 +95,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
 - Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
 - Won 1st place in Several Hackathons
 </details> 
-
+-->
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
@@ -102,6 +103,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
 
 </details>
 
+<!--
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
@@ -110,7 +112,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
   </a>
 
 </details>
-
+-->
    
 
 <h4>Latest Blog Posts</h4>
