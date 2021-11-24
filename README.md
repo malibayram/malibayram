@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **malibayram91@gmail.com**
 
-- ⚡ Fun fact **I study Computer Engineering Doctorate and Bachelor degree simultaneously**
+- ⚡ Fun fact **I study Computer Engineering Doctorate and Bachelor degrees simultaneously**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
