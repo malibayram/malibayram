@@ -2,6 +2,7 @@
 <h3 align="center">Computer Engineering PhD Student at Yıldız Technical University in Turkey and software developer #Flutter #Firebase #Angular #TensorFlow</h3>
 
 <h3>Latest YouTube Videos</h3>
+
 <!-- YOUTUBE:START -->
 - [Flutter ve Firebase Kullanarak Push Notification Kullanımı](https://www.youtube.com/watch?v=rd43ozu8nAQ)
 - [Freelance bir iş alacak seviyeye geldiğimi nasıl anlayabilirim?](https://www.youtube.com/watch?v=e6Nc3sPj8to)
@@ -9,6 +10,7 @@
 - [Global ve Static Değişkenler Üzerine](https://www.youtube.com/watch?v=jOL5TwepvIA)
 - [Açık Kaynak Projelere Katkıda Bulunmak](https://www.youtube.com/watch?v=ulwCjIJur4A)
 <!-- YOUTUBE:END -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malibayram91&label=Profile%20views&color=0e75b6&style=flat" alt="malibayram91" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malibayram91" alt="malibayram91" /></a> </p>
