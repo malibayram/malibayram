@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali Bayram</h1>
 <h3 align="center">Computer Engineering PhD Student at Yıldız Technical University in Turkey and software developer #Flutter #Firebase #Angular #TensorFlow</h3>
 
+<h3>Latest YouTube Videos</h3>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malibayram91&label=Profile%20views&color=0e75b6&style=flat" alt="malibayram91" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malibayram91" alt="malibayram91" /></a> </p>
@@ -101,8 +104,9 @@ Most of the open-source projects I create are the solutions to the problems I fa
 
 </details>
 
-<details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
-  <br/>
+   
 
-<img alt='analytics' src='https://profile-counter.glitch.me/malibayram91/count.svg' width='0px'>
+<h4>Latest Blog Posts</h4>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
