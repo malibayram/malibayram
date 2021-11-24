@@ -11,12 +11,6 @@
 - [Açık Kaynak Projelere Katkıda Bulunmak](https://www.youtube.com/watch?v=ulwCjIJur4A)
 <!-- YOUTUBE:END -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malibayram91&label=Profile%20views&color=0e75b6&style=flat" alt="malibayram91" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malibayram91" alt="malibayram91" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/malibayram21" target="blank"><img src="https://img.shields.io/twitter/follow/malibayram21?logo=twitter&style=for-the-badge" alt="malibayram21" /></a> </p>
-
 - 🌱 I’m currently learning **Tensorflow, Swift, Flutter, Angular**
 
 - 💬 Ask me about **Flutter**
@@ -50,9 +44,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram91&" alt="malibayram91" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malibayram91&label=Profile%20views&color=0e75b6&style=flat" alt="malibayram91" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malibayram91" alt="malibayram91" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/malibayram21" target="blank"><img src="https://img.shields.io/twitter/follow/malibayram21?logo=twitter&style=for-the-badge" alt="malibayram21" /></a> </p>
+
 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=malibayram91&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 <!---
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
