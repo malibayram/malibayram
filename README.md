@@ -3,6 +3,11 @@
 
 <h3>Latest YouTube Videos</h3>
 <!-- YOUTUBE:START -->
+- [Flutter ve Firebase Kullanarak Push Notification Kullanımı](https://www.youtube.com/watch?v=rd43ozu8nAQ)
+- [Freelance bir iş alacak seviyeye geldiğimi nasıl anlayabilirim?](https://www.youtube.com/watch?v=e6Nc3sPj8to)
+- [Null-Safety Soru ve Ünlem İşaretleri](https://www.youtube.com/watch?v=sWChsh8YIgI)
+- [Global ve Static Değişkenler Üzerine](https://www.youtube.com/watch?v=jOL5TwepvIA)
+- [Açık Kaynak Projelere Katkıda Bulunmak](https://www.youtube.com/watch?v=ulwCjIJur4A)
 <!-- YOUTUBE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malibayram91&label=Profile%20views&color=0e75b6&style=flat" alt="malibayram91" /> </p>
 
