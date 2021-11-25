@@ -18,25 +18,30 @@
 - 📫 How to reach me **malibayram91@gmail.com**
 
 - ⚡ Fun fact **I study Computer Engineering Doctorate and Bachelor degrees simultaneously**
+<detail>
+  <summary>
+    <h3 align="left">Social</h3>
+  </summary>
+  <p align="left">
+  <a href="https://codepen.io/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="malibayram91" height="30" width="40" /></a>
+  <a href="https://dev.to/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="malibayram91" height="30" width="40" /></a>
+  <a href="https://twitter.com/malibayra21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malibayra21" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mehmetalibayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetalibayram" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/6378949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6378949" height="30" width="40" /></a>
+  <a href="https://codesandbox.com/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="malibayram91" height="30" width="40" /></a>
+  <a href="https://kaggle.com/malibayram9121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="malibayram9121" height="30" width="40" /></a>
+  <a href="https://instagram.com/malibayram9121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malibayram9121" height="30" width="40" /></a>
+  <a href="https://dribbble.com/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="malibayram91" height="30" width="40" /></a>
+  <a href="https://www.behance.net/mehmetalibayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mehmetalibayram" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@malibayram91" height="30" width="40" /></a>
+  <a href="https://medium.com/@malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malibayram91" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/mehmetalibayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehmetalibayram" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="malibayram91" height="30" width="40" /></a>
+  <a href="https://discord.gg/Mehmet Ali Bayram#9421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9421" height="30" width="40" /></a>
+  </p>
+</detail>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="malibayram91" height="30" width="40" /></a>
-<a href="https://dev.to/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="malibayram91" height="30" width="40" /></a>
-<a href="https://twitter.com/malibayra21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malibayra21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehmetalibayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetalibayram" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6378949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6378949" height="30" width="40" /></a>
-<a href="https://codesandbox.com/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="malibayram91" height="30" width="40" /></a>
-<a href="https://kaggle.com/malibayram9121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="malibayram9121" height="30" width="40" /></a>
-<a href="https://instagram.com/malibayram9121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malibayram9121" height="30" width="40" /></a>
-<a href="https://dribbble.com/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="malibayram91" height="30" width="40" /></a>
-<a href="https://www.behance.net/mehmetalibayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mehmetalibayram" height="30" width="40" /></a>
-<a href="https://hashnode.com/@malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@malibayram91" height="30" width="40" /></a>
-<a href="https://medium.com/@malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malibayram91" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mehmetalibayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehmetalibayram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="malibayram91" height="30" width="40" /></a>
-<a href="https://discord.gg/Mehmet Ali Bayram#9421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9421" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malibayram91&show_icons=true&locale=en&layout=compact" alt="malibayram91" /></p>
 
