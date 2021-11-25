@@ -18,9 +18,9 @@
 - 📫 How to reach me **malibayram91@gmail.com**
 
 - ⚡ Fun fact **I study Computer Engineering Doctorate and Bachelor degrees simultaneously**
-<detail>
+<details>
   <summary>
-    <h3 align="left">Social</h3>
+    <b align="left">Social</b>
   </summary>
   <p align="left">
   <a href="https://codepen.io/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="malibayram91" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
   <a href="https://www.hackerrank.com/malibayram91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="malibayram91" height="30" width="40" /></a>
   <a href="https://discord.gg/Mehmet Ali Bayram#9421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9421" height="30" width="40" /></a>
   </p>
-</detail>
+</details>
 
 
 
