@@ -31,7 +31,24 @@
     <b>Geliştirdiğim yazılım projeleri</b>
   </summary>
   <br />
-  Buraya eklemeler yapacağım.
+  <ul>
+    <li><a href="https://google.com">Weyne</a></li>
+    <li><a href="https://google.com">Sen V2.0</a></li>
+    <li><a href="https://google.com">Compec App</a></li>
+    <li><a href="https://google.com">Miniskop</a></li>
+    <li><a href="https://google.com">DHBT ve diğer sınav hazırlık uygulamaları</a></li>
+    <li><a href="https://google.com">WillPower</a></li>
+    <li><a href="https://google.com">Şifa Polikliniği</a></li>
+    <li><a href="https://google.com">inaremiet</a></li>
+    <li><a href="https://google.com">Oltu Süper Radyo mobil uyulamaları</a></li>
+    <li><a href="https://google.com">ovitso</a></li>
+    <li><a href="https://google.com">Mistik Yol</a></li>
+    <li><a href="https://google.com">Sudoku</a></li>
+    <li><a href="https://google.com">Oxford 5000 Kelime</a></li>
+    <li><a href="https://google.com">Ajit-e</a></li>
+    <li><a href="https://google.com">Körfezin Sesi</a></li>
+    <li><a href="https://google.com">TomeKop</a></li>
+  </ul>
 </details>
 <details>
   <summary>
