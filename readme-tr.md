@@ -48,6 +48,7 @@
     <li><a href="https://google.com">Ajit-e</a></li>
     <li><a href="https://google.com">Körfezin Sesi</a></li>
     <li><a href="https://google.com">TomeKop</a></li>
+    <li><a href="https://google.com">Teog Cepte</a></li>
   </ul>
 </details>
 <details>
