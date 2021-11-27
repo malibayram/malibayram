@@ -1,0 +1,7 @@
+- **Başlık**: Weyne
+- **Kısa açıklama**: Diyarbakır özelinde marketler için hazırlanmış olan sipariş teslimat mobil uygulaması.
+- **Çalıştığı platform**: iOS ve Android
+- **Kullanılan framework**: Flutter
+- **Kullanılan yazılım dilleri**: Dart, JavaScript, PHP, SQL
+- **Kullanılan veritabanları**: MySQL
+- 
