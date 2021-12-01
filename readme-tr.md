@@ -14,6 +14,13 @@
 </details>
 <details>
   <summary>
+    <b>İş tecrübelerimr</b>
+  </summary>
+  <br />
+  Buraya eklemeler yapacağım.
+</details>
+<details>
+  <summary>
     <b>Katıldığım etkinlikler ve yaptığım konuşmalar</b>
   </summary>
   <br />
