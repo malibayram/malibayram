@@ -14,7 +14,7 @@
 </details>
 <details>
   <summary>
-    <b>İş tecrübelerimr</b>
+    <b>İş tecrübelerim</b>
   </summary>
   <br />
   Buraya eklemeler yapacağım.
