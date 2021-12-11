@@ -43,7 +43,7 @@
     <li><a href="https://google.com">Sen V2.0</a></li>
     <li><a href="https://google.com">Compec App</a></li>
     <li><a href="https://google.com">Miniskop</a></li>
-    <li><a href="https://google.com">DHBT ve diğer sınav hazırlık uygulamaları</a></li>
+    <li><a href="https://google.com">DGS ve diğer sınav hazırlık uygulamaları</a></li>
     <li><a href="https://google.com">WillPower</a></li>
     <li><a href="https://google.com">Şifa Polikliniği</a></li>
     <li><a href="https://google.com">inaremiet</a></li>
@@ -56,6 +56,7 @@
     <li><a href="https://google.com">Körfezin Sesi</a></li>
     <li><a href="https://google.com">TomeKop</a></li>
     <li><a href="https://google.com">Teog Cepte</a></li>
+    <li><a href="https://google.com">Vakfıkebir Belediyesi Mobil Uygulama</a></li>
   </ul>
 </details>
 <details>
