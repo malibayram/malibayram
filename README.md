@@ -119,6 +119,3 @@ Most of the open-source projects I create are the solutions to the problems I fa
 
 </details>
 -->
-   
-<!--
-<h4>Latest Blog Posts</h4>
