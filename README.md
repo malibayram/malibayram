@@ -4,11 +4,11 @@
 <h3>Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Gerçek Örnek Üzerinden Temiz Kod Yazmanın Önemi](https://www.youtube.com/watch?v=sIA-0JjjMK8)
+- [GDSC Galatasaray Üniversitesi - Input Widgets Part 2](https://www.youtube.com/watch?v=8Pm38PhmVok)
+- [GDSC Galatasaray Üniversitesi - Input Widgets](https://www.youtube.com/watch?v=pQsN2PsNf3g)
 - [Flutter ve Firebase Kullanarak Push Notification Kullanımı](https://www.youtube.com/watch?v=rd43ozu8nAQ)
 - [Freelance bir iş alacak seviyeye geldiğimi nasıl anlayabilirim?](https://www.youtube.com/watch?v=e6Nc3sPj8to)
-- [Null-Safety Soru ve Ünlem İşaretleri](https://www.youtube.com/watch?v=sWChsh8YIgI)
-- [Global ve Static Değişkenler Üzerine](https://www.youtube.com/watch?v=jOL5TwepvIA)
-- [Açık Kaynak Projelere Katkıda Bulunmak](https://www.youtube.com/watch?v=ulwCjIJur4A)
 <!-- YOUTUBE:END -->
 
 - 🌱 I’m currently learning **Tensorflow, Swift, Flutter, Angular**
