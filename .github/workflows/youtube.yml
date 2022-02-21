@@ -1,7 +1,6 @@
 name: Latest YouTube Videos
 on:
   schedule:
-    # Runs every day
     - cron: '50 * * * *'
   workflow_dispatch:
 
