@@ -4,11 +4,11 @@
 <h3>Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Portfolio Flutter Project Session 1](https://www.youtube.com/watch?v=4tlYhUPvpBE)
 - [Dart Flutter typedef Anahtar Kelimesi](https://www.youtube.com/watch?v=yfyXgkzt1oU)
 - [Dart ve Flutter Fonksiyon Sonundaki Parantezler](https://www.youtube.com/watch?v=88PO0q7qxWE)
 - [Dart ve Flutter CallBack Function Kullanımı](https://www.youtube.com/watch?v=Zkhqp8zmBh8)
 - [Flutter Week Day 4  Mehmet Ali Bayram Flutter Proje](https://www.youtube.com/watch?v=Gly1KP_CEUk)
+- [Flutter Week Day 3  Mehmet Ali Bayram Flutter](https://www.youtube.com/watch?v=JqeEXs2rpBM)
 <!-- YOUTUBE:END -->
 
 - 🌱 I’m currently learning **Tensorflow, Swift, Flutter, Angular**
