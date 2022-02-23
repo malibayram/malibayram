@@ -4,8 +4,8 @@
 <h3>Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Portfolio Flutter Project Session 1](https://www.youtube.com/watch?v=4tlYhUPvpBE)
 - [Dart ve Flutter Singleton Tasarım Deseni](https://www.youtube.com/watch?v=HoskF3XXXDs)
+- [Portfolio Flutter Project Session 1](https://www.youtube.com/watch?v=4tlYhUPvpBE)
 - [Dart Flutter typedef Anahtar Kelimesi](https://www.youtube.com/watch?v=yfyXgkzt1oU)
 - [Dart ve Flutter Fonksiyon Sonundaki Parantezler](https://www.youtube.com/watch?v=88PO0q7qxWE)
 - [Dart ve Flutter CallBack Function Kullanımı](https://www.youtube.com/watch?v=Zkhqp8zmBh8)
