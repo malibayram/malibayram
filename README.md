@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Ali Bayram</h1>
+<h1 align="center">Hi 👋, I'm Ali Bayram</h1>
 <h3 align="center">Computer Engineering PhD Student at Yıldız Technical University in Turkey and software developer #Flutter #Firebase #Angular #TensorFlow</h3>
 
 <h3>Latest YouTube Videos</h3>
