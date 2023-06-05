@@ -20,21 +20,21 @@
 - ⚡ Fun fact **I study Computer Engineering Doctorate and Bachelor degrees simultaneously**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malibayram91&show_icons=true&locale=en&layout=compact" alt="malibayram91" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malibayram&show_icons=true&locale=en&layout=compact" alt="malibayram" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malibayram91&show_icons=true&locale=en" alt="malibayram91" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malibayram&show_icons=true&locale=en" alt="malibayram" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram91&" alt="malibayram91" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram&" alt="malibayram" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malibayram91&label=Profile%20views&color=0e75b6&style=flat" alt="malibayram91" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malibayram&label=Profile%20views&color=0e75b6&style=flat" alt="malibayram" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malibayram91" alt="malibayram91" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malibayram" alt="malibayram" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/malibayram21" target="blank"><img src="https://img.shields.io/twitter/follow/malibayram21?logo=twitter&style=for-the-badge" alt="malibayram21" /></a> </p>
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=malibayram91&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=malibayram&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <!---
 <details>
