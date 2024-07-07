@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **malibayram91@gmail.com**
+- 📫 How to reach me **malibayram20@gmail.com**
 
 - ⚡ Fun fact **I study Computer Engineering Doctorate and Bachelor degrees simultaneously**
 
