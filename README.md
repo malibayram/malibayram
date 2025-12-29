@@ -1,95 +1,88 @@
 <h1 align="center">Hi 👋, I'm Ali Bayram</h1>
-
-<h3 align="center">
-🎓 Computer Engineering PhD Student @ Yıldız Technical University<br/>
-💻 Software Developer | Mobile • Web • AI
-</h3>
-
 <p align="center">
-  <b>Flutter</b> • <b>Firebase</b> • <b>Angular</b> • <b>TensorFlow</b> • <b>Swift</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=PhD+Student+at+Y%C4%B1ld%C4%B1z+Technical;Software+Developer;Flutter+&++Firebase+Expert;TensorFlow+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:malibayram20@gmail.com">📫 Email</a> •
-  <a href="https://twitter.com/malibayram21">🐦 Twitter</a> •
-  <a href="https://www.youtube.com/@malibayram">🎥 YouTube</a>
+  <a href="https://twitter.com/malibayram21" target="blank"><img src="https://img.shields.io/twitter/follow/malibayram21?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white" alt="malibayram21" /></a>
+  <img src="https://komarev.com/ghpvc/?username=malibayram&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="malibayram" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 **PhD Student in Computer Engineering** at **Yıldız Technical University**
-- 💡 Software developer focused on **mobile-first systems**, **scalable architectures**, and **applied AI**
-- 🎥 Sharing practical Flutter & software engineering knowledge on YouTube
-- 🧠 Research interests: **Machine Learning, Deep Learning, Mobile AI**
+I am a **Computer Engineering PhD Student** at Yıldız Technical University with a passion for building scalable mobile and web applications. I bridge the gap between academic research and real-world software engineering.
 
-> I enjoy transforming research ideas into real-world, production-ready software.
-
----
-
-## 🎥 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-> ⏫ *This section updates automatically via GitHub Actions.*
+- 🎓 **Academic Overachiever**: Currently pursuing my **Doctorate and Bachelor's degrees simultaneously**—a testament to my time management and dedication to the field.
+- 🔭 **Currently working on**: Advanced Flutter architectures and Deep Learning models.
+- 🌱 **Learning Path**: Mastering `Swift` for native iOS and scaling AI models with `TensorFlow`.
+- 💬 **Ask me about**: Flutter, Firebase, and State Management.
+- 📫 **Reach me at**: [malibayram20@gmail.com](mailto:malibayram20@gmail.com)
 
 ---
 
-## 🌱 Currently Learning & Exploring
+### 🛠️ Tech Stack & Tools
 
-- 🤖 TensorFlow & Deep Learning
-- 📱 Advanced Flutter & Mobile Architecture
-- 🍎 Swift & iOS Development
-- 🌐 Angular & Scalable Frontend Systems
+<details open>
+  <summary><b>Mobile & Frontend</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </p>
+</details>
 
----
-
-## 💬 Ask Me About
-
-- Flutter & Dart best practices  
-- Firebase & backend architecture  
-- Mobile performance optimization  
-- Software engineering fundamentals  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malibayram&show_icons=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malibayram&layout=compact" height="140"/>
-</p>
-
----
-
-## ⏱️ Weekly Development Breakdown
-<!-- WAKATIME:START -->
-<!-- WAKATIME:END -->
-
-> ⏫ *This section updates automatically via GitHub Actions.*
-
----
-
-## 🛠️ Languages & Tools
-
-<details>
-  <summary><b>Click to expand</b></summary>
-  <br/>
-
-**Mobile:** Flutter, Swift, Android  
-**Frontend:** Angular, React, HTML, CSS, JavaScript  
-**Backend:** Firebase, Node.js, Django, .NET  
-**AI & Data:** Python, TensorFlow  
-**Tools:** Git, Linux, Figma, Google Cloud  
-
+<details open>
+  <summary><b>Backend & AI</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </p>
 </details>
 
 ---
 
-⚡ **Fun fact:**  
-> I’m a Computer Engineering PhD student who actively builds and publishes real-world software alongside academic research.
+### 📺 Latest YouTube Videos
+- [Portfolio Flutter Project Session 4](https://www.youtube.com/watch?v=X4cHSP83eks)
+- [Portfolio Flutter Project Session 3](https://www.youtube.com/watch?v=dZRMX4XChK0)
+- [Dart Flutter Generic Tip Belirleme](https://www.youtube.com/watch?v=zkF2tOiVJns)
+- [Portfolio Flutter Project Session 2](https://www.youtube.com/watch?v=CoO87zFnpT0)
+- [Dart ve Flutter Singleton Tasarım Deseni](https://www.youtube.com/watch?v=HoskF3XXXDs)
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malibayram&theme=onedark" alt="malibayram" /></a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malibayram&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=malibayram&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Stats" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram&theme=vision-friendly-dark" alt="Streak Stats" />
+</p>
+
+#### 🕒 Coding Activity
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=malibayram&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>Let's build something amazing together!</b>
+</p>
