@@ -139,18 +139,17 @@ _This section automatically updates with my latest content via GitHub Actions._
 
 ## GitHub & Research Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malibayram&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malibayram&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github)](https://github.com/malibayram)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malibayram&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="150" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=malibayram&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)](https://github.com/malibayram)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malibayram&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malibayram&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8)](https://github.com/malibayram)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=malibayram&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/malibayram)
+
+</div>
 
 ---
 
