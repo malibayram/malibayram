@@ -1,103 +1,168 @@
-<h1 align="center">Hi 👋, I'm Ali Bayram</h1>
+<h1 align="center">Ali Bayram</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &pause=1000
-    &color=58A6FF
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Computer+Engineering+PhD+Student;
-    AI+%26+Machine+Learning+Researcher;
-    Software+Developer+%7C+Mobile+%26+Web;
-    Flutter+%26+Firebase+Expert;
-    TensorFlow+%26+Applied+Deep+Learning"
-    alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+PhD+Candidate;NLP+%26+LLM+Researcher;Multilingual+AI+%26+Low-Resource+Languages;Turkish+MMLU+Benchmark+Creator;Medical+AI+%26+Healthcare+NLP" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://twitter.com/malibayram21" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/malibayram21?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white" />
+    <img src="https://img.shields.io/twitter/follow/malibayram21?logo=twitter&style=for-the-badge&color=58A6FF&logoColor=white" alt="Twitter" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=malibayram&label=Profile%20views&color=0d1117&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=malibayram&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I am a **Computer Engineering PhD Student** at **Yıldız Technical University**, working at the intersection of **Artificial Intelligence research** and **real-world software systems**.
+I am a **Computer Engineering PhD candidate** at **Yıldız Technical University** (expected 2025), combining cutting-edge **NLP research** with extensive **production engineering experience** in mobile and backend systems.
 
-My focus is on **designing, implementing, and deploying intelligent systems**—from deep learning models to scalable mobile and cloud-based applications.
+My work uniquely bridges **AI research** and **real-world software engineering**—from developing Turkish LLMs and medical AI systems to architecting scalable **Flutter applications** and cloud-based backends. I specialize in **LLM fine-tuning**, **adaptive learning**, and **model merging** for low-resource languages, while maintaining deep expertise in **cross-platform mobile development** and **full-stack architecture**.
 
-- 🎓 **PhD Researcher** in Computer Engineering  
-- 🤖 Research interests: **Machine Learning, Deep Learning, Applied AI, Mobile AI**
-- 🔭 Currently working on **Deep Learning models** and **advanced Flutter architectures**
-- 🌱 Expanding expertise in **TensorFlow**, **model deployment**, and **Swift (iOS)**
-- 💬 Ask me about **Flutter**, **Firebase**, **ML fundamentals**, or **system design**
-- 📫 Reach me at: **malibayram20@gmail.com**
+**Research Focus:**
 
-> I aim to transform academic research into practical, production-ready systems.
+- **NLP for Low-Resource Languages** (Turkish, Kurdish, Arabic)
+- **Large Language Model Development** (LLM training, fine-tuning, evaluation)
+- **Medical AI & Healthcare NLP** (Patient-doctor Q&A, clinical text processing)
+- **Multilingual Tokenization** (Morphologically-aware, semantic-preserving tokenizers)
+- **Benchmark Development** (Turkish MMLU - 6,200 questions across 62 sections)
+
+**Engineering Expertise:**
+
+- **Flutter & Dart** (Cross-platform mobile development, state management, advanced architectures)
+- **Mobile AI Integration** (On-device ML, TensorFlow Lite, intelligent mobile applications)
+- **Backend Systems** (Firebase, Django, Node.js, scalable cloud architectures)
+- **Full-Stack Development** (React, Angular, Swift for iOS-native features)
+- **DevOps & CI/CD** (Docker, automated deployments, production pipelines)
+
+**International Experience:**
+
+- 🇵🇹 Visiting PhD Researcher, Instituto Politécnico de Tomar (Erasmus, 2023)
+- 🇬🇷 MSc Exchange, Aristotle University of Thessaloniki (Erasmus, 2020)
+
+**Languages:**
+🗣️ Turkish, Kurdish (Native) | English, Arabic (Fluent) | Persian, Zazaki (Conversational)
+
+📫 **Contact:** malibayram20@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/mehmetalibayram) | 🤗 [Hugging Face](https://huggingface.co/alibayram)
 
 ---
 
-## 🧰 Tech Stack & Research Tools
+## Featured Research & Publications
 
-### 📱 Mobile & Frontend
+### 🏥 Healthcare-Focused Turkish LLM
+
+**"Training on Real Patient-Doctor Q&A Data"**
+
+- Fine-tuned Llama 3 (8B) on 167k+ authentic patient-doctor dialogues
+- Applied LoRA adapters & SLerp merges for knowledge retention
+- Evaluated against GPT-3.5 with expert clinical feedback
+- Developed **Doctor-Llama** & **DoctorGemma** model series
+
+### 📊 Turkish MMLU Benchmark
+
+**"Setting Standards in Turkish NLP: TurkishMMLU for Large Language Model Evaluation"**
+
+- Created comprehensive **6,200-question benchmark** from 280k+ questions
+- Covers **62 sections**, **67 disciplines**, **800+ topics**
+- Established first standardized evaluation framework for Turkish LLMs
+- Improved tokenization quality and cross-domain semantic understanding
+
+### 🎯 Adaptive Learning Rate Research
+
+**"Data Quality-Based Adaptive Learning Rate: A Case Study on Medical Text Classification"** (Conference Paper)
+
+- Developed dynamic learning rate mechanism tied to content quality
+- Applied to 167k medical dataset, improving convergence and accuracy
+- Enhanced efficiency for specialized NLP applications
+
+### 🔬 Open Source Contributions
+
+- **Tokenizer Projects:** Linguistically-informed tokenizers for Turkish & morphologically-rich languages
+  - [github.com/malibayram/tokenizer](https://github.com/malibayram/tokenizer)
+  - [github.com/malibayram/tokenizer_benchmark](https://github.com/malibayram/tokenizer_benchmark)
+- **Model Architectures:** Attention mechanisms, embeddings, and performance profiling
+  - [github.com/malibayram/model-architectures](https://github.com/malibayram/model-architectures)
+
+### 👨‍🏫 Teaching & Content Creation
+
+- **Udemy & YouTube Instructor:** Creating comprehensive courses on Flutter, mobile development, and AI
+- **Research Assistant:** Yeditepe University - Teaching AI, programming, and ML fundamentals
+- **Mentorship:** Leading Flutter, Android, and NLP bootcamps and developer communities
+- **Technical Content:** Producing educational materials for thousands of learners worldwide
+
+---
+
+## Tech Stack & Research Tools
+
+### Mobile & Frontend Development
+
 <p>
-  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031" />
-  <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=FA7343" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=58A6FF" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=58A6FF" alt="Dart" />
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=FA7343" alt="Swift" />
+  <img src="https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
-### 🧠 Backend, AI & Research
+**Mobile Expertise:** Advanced Flutter architectures • State management (Bloc, Provider, Riverpod) • Native platform integration • Performance optimization • Firebase integration
+
+### AI, NLP & Backend Systems
+
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+**AI Research:** LLM Training & Fine-tuning • Transformers • LoRA Adapters • Model Merging • Tokenization • MMLU Benchmarking • Multi-GPU Training
+
+**Backend & Cloud:** RESTful APIs • Microservices • Real-time databases • Cloud Functions • Scalable architectures • CI/CD pipelines
+
+---
+
+## Latest YouTube Videos
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+_This section automatically updates with my latest content via GitHub Actions._
+
+---
+
+## GitHub & Research Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malibayram&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malibayram&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malibayram&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
 
-## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+## Coding Activity
 
-> 🔄 *Automatically updated with GitHub Actions*
-
----
-
-## 📊 GitHub & Research Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malibayram&theme=onedark&no-frame=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malibayram&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malibayram&theme=github-dark" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malibayram&layout=compact&theme=github_dark" height="140"/>
-</p>
-
----
-
-## ⏱️ Coding Activity
 <!-- WAKATIME:START -->
 <!-- WAKATIME:END -->
 
-> 🔄 *Updated daily via WakaTime GitHub Action*
+_Automatically updated daily with WakaTime statistics._
 
 ---
 
 <p align="center">
-  <i>"Research turns questions into knowledge. Engineering turns knowledge into impact."</i><br/>
-  <b>Let’s build intelligent systems.</b>
+  <i>"Bridging linguistic diversity and computational intelligence to build AI systems that understand and serve multilingual communities."</i>
 </p>
