@@ -130,7 +130,7 @@ My work uniquely bridges **AI research** and **real-world software engineering**
 
 ## Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->- [Colab’e Güçlü Alternatif: H200 GPU ile 10$’a Embedding Model Eğitimi &lpar;Verda Rehberi&rpar;](https://www.youtube.com/watch?v=buPxKUnbT8A)- [Sıfırdan RISC-V İşlemci Tasarımı: Verilog ile Adım Adım Uygulama](https://www.youtube.com/watch?v=R1ZnYYKbM1M)- [Dil Adaptörleriyle İngilizce LLM’yi Türkçeye Çevirmek! | Token Embedding’leriyle Yeni Bir Yaklaşım](https://www.youtube.com/watch?v=TbWj_XOeE88)- [LLM Fine-Tuning ve Dağıtım Eğitimi | Hugging Face, Unsloth, Ollama Kullanımı](https://www.youtube.com/watch?v=FEdBZZUb_6A)- [Tokenlar Gitti, Byte’lar Geldi: AU-Net ve BLT Ne Vaat Ediyor?](https://www.youtube.com/watch?v=WhwQvAvX-p4)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Colab’e Güçlü Alternatif: H100 GPU ile 10$’a Embedding Model Eğitimi &lpar;Verda Rehberi&rpar;](https://www.youtube.com/watch?v=ZPqFSjvT3ho)- [Sıfırdan RISC-V İşlemci Tasarımı: Verilog ile Adım Adım Uygulama](https://www.youtube.com/watch?v=R1ZnYYKbM1M)- [Dil Adaptörleriyle İngilizce LLM’yi Türkçeye Çevirmek! | Token Embedding’leriyle Yeni Bir Yaklaşım](https://www.youtube.com/watch?v=TbWj_XOeE88)- [LLM Fine-Tuning ve Dağıtım Eğitimi | Hugging Face, Unsloth, Ollama Kullanımı](https://www.youtube.com/watch?v=FEdBZZUb_6A)- [Tokenlar Gitti, Byte’lar Geldi: AU-Net ve BLT Ne Vaat Ediyor?](https://www.youtube.com/watch?v=WhwQvAvX-p4)<!-- BLOG-POST-LIST:END -->
 
 _This section automatically updates with my latest content via GitHub Actions._
 
