@@ -130,7 +130,7 @@ My work uniquely bridges **AI research** and **real-world software engineering**
 
 ## Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->- [LLM&#39;ler Nasıl Çalışır? | Huawei Developer Groups Türkiye &amp; HSD Sivas CÜ Ortak Yayını](https://www.youtube.com/watch?v=zriCrqEYos4)- [Doktora Tez Savunmam | Türkçe Dil Modelleri, Tokenizasyon, Veri Kalitesi ve Alan Uyarlaması](https://www.youtube.com/watch?v=gkrAjyFkfPA)- [Colab’e Güçlü Alternatif: H100 GPU ile 10$’a Embedding Model Eğitimi &lpar;Verda Rehberi&rpar;](https://www.youtube.com/watch?v=ZPqFSjvT3ho)- [Sıfırdan RISC-V İşlemci Tasarımı: Verilog ile Adım Adım Uygulama](https://www.youtube.com/watch?v=R1ZnYYKbM1M)- [Dil Adaptörleriyle İngilizce LLM’yi Türkçeye Çevirmek! | Token Embedding’leriyle Yeni Bir Yaklaşım](https://www.youtube.com/watch?v=TbWj_XOeE88)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Sıfırdan Türkçe Büyük Dil Modeli İnşa Etmek | Claude Meetup Istanbul @EstanbulEsporveOyunMerkezi](https://www.youtube.com/watch?v=xvKHK0eFNgc)- [LLM&#39;ler Nasıl Çalışır? | Huawei Developer Groups Türkiye &amp; HSD Sivas CÜ Ortak Yayını](https://www.youtube.com/watch?v=zriCrqEYos4)- [Doktora Tez Savunmam | Türkçe Dil Modelleri, Tokenizasyon, Veri Kalitesi ve Alan Uyarlaması](https://www.youtube.com/watch?v=gkrAjyFkfPA)- [Colab’e Güçlü Alternatif: H100 GPU ile 10$’a Embedding Model Eğitimi &lpar;Verda Rehberi&rpar;](https://www.youtube.com/watch?v=ZPqFSjvT3ho)- [Sıfırdan RISC-V İşlemci Tasarımı: Verilog ile Adım Adım Uygulama](https://www.youtube.com/watch?v=R1ZnYYKbM1M)<!-- BLOG-POST-LIST:END -->
 
 _This section automatically updates with my latest content via GitHub Actions._
 
