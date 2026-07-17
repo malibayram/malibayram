@@ -130,7 +130,7 @@ My work uniquely bridges **AI research** and **real-world software engineering**
 
 ## Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->- [UK Exeter Talk: Developing Turkish Language Models: Tokenization, Data Quality and Domain Adaptation](https://www.youtube.com/watch?v=NHnSC1RyBhU)- [Sıfırdan Türkçe Büyük Dil Modeli İnşa Etmek | Claude Meetup Istanbul @EstanbulEsporveOyunMerkezi](https://www.youtube.com/watch?v=xvKHK0eFNgc)- [LLM&#39;ler Nasıl Çalışır? | Huawei Developer Groups Türkiye &amp; HSD Sivas CÜ Ortak Yayını](https://www.youtube.com/watch?v=zriCrqEYos4)- [Doktora Tez Savunmam | Türkçe Dil Modelleri, Tokenizasyon, Veri Kalitesi ve Alan Uyarlaması](https://www.youtube.com/watch?v=gkrAjyFkfPA)- [Colab’e Güçlü Alternatif: H100 GPU ile 10$’a Embedding Model Eğitimi &lpar;Verda Rehberi&rpar;](https://www.youtube.com/watch?v=ZPqFSjvT3ho)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 1, Gün 1: Tokenizer Mimarisi ve LLM Temelleri](https://www.youtube.com/watch?v=IzL_TzjXR1s)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 1, Gün 2: LoRA ve Açık Kaynak Veri Ekosistemi](https://www.youtube.com/watch?v=7vAEBJcKQxg)- [UK Exeter Talk: Developing Turkish Language Models: Tokenization, Data Quality and Domain Adaptation](https://www.youtube.com/watch?v=NHnSC1RyBhU)- [Sıfırdan Türkçe Büyük Dil Modeli İnşa Etmek | Claude Meetup Istanbul @EstanbulEsporveOyunMerkezi](https://www.youtube.com/watch?v=xvKHK0eFNgc)- [LLM&#39;ler Nasıl Çalışır? | Huawei Developer Groups Türkiye &amp; HSD Sivas CÜ Ortak Yayını](https://www.youtube.com/watch?v=zriCrqEYos4)<!-- BLOG-POST-LIST:END -->
 
 _This section automatically updates with my latest content via GitHub Actions._
 
