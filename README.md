@@ -130,7 +130,7 @@ My work uniquely bridges **AI research** and **real-world software engineering**
 
 ## Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->- [Magibu Sonsuz Pazar Yayını](https://www.youtube.com/watch?v=rcCgsHWtMKI)- [M. Ali Bayram Live Stream](https://www.youtube.com/watch?v=5g2fPCVVrG4)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 2, Gün 2: Model Mimarisi Matematiği, Kuantizasyon](https://www.youtube.com/watch?v=3M7Y8P2KhT0)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 2, Gün 1: Ölçülebilirlik ve Model Özelleştirme](https://www.youtube.com/watch?v=R-gww-r6zd0)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 1: Ödev Çözümleri, BPE Tokenizer ve LoRA Fine-Tuning](https://www.youtube.com/watch?v=SpNk8XWwEe8)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [M. Ali Bayram Live Stream](https://www.youtube.com/watch?v=5g2fPCVVrG4)- [M. Ali Bayram Live Stream](https://www.youtube.com/watch?v=0NBBQTL0y_U)- [Magibu Sonsuz Pazar Yayını](https://www.youtube.com/watch?v=rcCgsHWtMKI)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 2, Gün 2: Model Mimarisi Matematiği, Kuantizasyon](https://www.youtube.com/watch?v=3M7Y8P2KhT0)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 2, Gün 1: Ölçülebilirlik ve Model Özelleştirme](https://www.youtube.com/watch?v=R-gww-r6zd0)<!-- BLOG-POST-LIST:END -->
 
 _This section automatically updates with my latest content via GitHub Actions._
 
