@@ -130,7 +130,7 @@ My work uniquely bridges **AI research** and **real-world software engineering**
 
 ## Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 3, Gün 2: Chat Template ve Structured Output](https://www.youtube.com/watch?v=K7lFadCfFL8)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 3, Gün 1: LLM&#39;lerde Tool Calling ve Structured Output](https://www.youtube.com/watch?v=nlqbUgSECm8)- [Magibu Sonsuz Pazar Yayını](https://www.youtube.com/watch?v=rcCgsHWtMKI)- [M. Ali Bayram Live Stream](https://www.youtube.com/watch?v=5g2fPCVVrG4)- [M. Ali Bayram Live Stream](https://www.youtube.com/watch?v=0NBBQTL0y_U)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 4, Gün 1: Embedding Modelleri ve Anlamsal Arama](https://www.youtube.com/watch?v=LNkSTDezw8g)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 3, Gün 2: Chat Template ve Structured Output](https://www.youtube.com/watch?v=K7lFadCfFL8)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 3, Gün 1: LLM&#39;lerde Tool Calling ve Structured Output](https://www.youtube.com/watch?v=nlqbUgSECm8)- [Magibu Sonsuz Pazar Yayını](https://www.youtube.com/watch?v=rcCgsHWtMKI)- [M. Ali Bayram Live Stream](https://www.youtube.com/watch?v=5g2fPCVVrG4)<!-- BLOG-POST-LIST:END -->
 
 _This section automatically updates with my latest content via GitHub Actions._
 
