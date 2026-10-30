@@ -1,44 +1,84 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Ali Bayram — language, intelligence, and software" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Ali Bayram, PhD — AI researcher, product builder, and founder of Magibu. Research that becomes software." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/alibayram">Hugging Face</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/mehmetalibayram">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/channel/UC6xZXR2zd76Jx13-3u39wQA">YouTube</a> &nbsp;·&nbsp;
-  <a href="mailto:malibayram20@gmail.com">Email</a>
+  <b>English</b> · <a href="readme-tr.md">Türkçe</a>
+</p>
+<p align="center">
+  <a href="https://magibu.ai"><b>Magibu ↗</b></a> &nbsp; / &nbsp;
+  <a href="https://huggingface.co/alibayram">Models & datasets</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mehmetalibayram/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:malibayram20@gmail.com">Get in touch</a>
 </p>
 
-I work at the intersection of **language models, multilingual NLP, and software engineering**. My research explores how language models can better represent Turkish and other languages, while my engineering work turns ideas into useful applications and learning tools.
+### Merhaba, I'm Ali 👋
 
-I'm especially interested in tokenization, model adaptation and evaluation, healthcare NLP, and making AI concepts accessible through open-source projects and teaching.
+I'm an **AI researcher and product builder**, and the founder of **[Magibu](https://magibu.ai)**. I build language models, embeddings, and tools that help Turkish and other underrepresented languages work better in AI systems.
 
-## Selected work
+My work follows a question from research to implementation: how should a model represent a language, how do we measure what it understands, and how do we turn that into something people can use?
 
-| Project | What you'll find |
+I hold a **PhD in Computer Engineering from Yıldız Technical University (2026)**. Alongside research, I teach at **Maltepe University** and **Istanbul Bilgi University**, and bring production software experience from **Blue Sky Energy Technology**.
+
+## 🧬 From language to useful AI
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🌈 EmbeddingMagibu</h3>
+<p>Turkish-focused semantic representations. My recent work extends to multimodal search across text, images, audio, and video.</p>
+<p><a href="https://huggingface.co/alibayram">Explore models →</a> · <a href="https://ollama.com/alibayram/embeddingmagibu2">Run locally →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧪 TR-MMLU</h3>
+<p>A Turkish language model benchmark with <b>6,200 questions across 62 categories</b>, connecting evaluation to the language and knowledge it is meant to test.</p>
+<p><a href="https://huggingface.co/spaces/alibayram/turkish_mmlu_leaderboard">Explore the leaderboard →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔡 Tokens with Meaning</h3>
+<p>Morphology-aware and hybrid tokenization for Turkish: studying what happens when linguistic structure becomes part of a model's vocabulary.</p>
+<p><a href="https://github.com/malibayram/Tokens_with_Meaning_A_Hybrid_Tokenization_Approach_for_NLP">Research & code →</a> · <a href="https://huggingface.co/spaces/alibayram/turkish_tiktokenizer">Try the tokenizer →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🛠️ LLM from Scratch</h3>
+<p>Learn by building: notebooks and teaching material that unpack tokenization, embeddings, attention, training, and fine-tuning.</p>
+<p><a href="https://github.com/malibayram/llm-from-scratch">Start building →</a></p>
+</td>
+</tr>
+</table>
+
+## 🌍 Research across borders
+
+**Next chapter:** joining **CNRS / LORIA** as a postdoctoral researcher on **2 November 2026**.
+
+- **United Kingdom · 2026** — UniDive Short-Term Scientific Mission in Sheffield/Exeter with Prof. Aline Villavicencio, studying Turkish–Italian idiomaticity and multilingual model evaluation. Follow-up work was presented at the University of Exeter NLP Away Day.
+- **Portugal · 2023** — Erasmus doctoral research mobility at Instituto Politécnico de Tomar.
+- **European research networks** — Working Group participation in COST Actions [CA21167 · UniDive](https://www.cost.eu/actions/CA21167/), [CA22115 · PhraConRep](https://www.cost.eu/actions/CA22115/), and [CA24121 · KGELL](https://www.cost.eu/actions/CA24121/).
+
+## 🚀 Beyond the paper
+
+At **[Magibu](https://magibu.ai)**, I work on turning language model research into usable models, developer tools, and applied AI education. I also build cross-platform applications and interactive learning experiences with Flutter and cloud services.
+
+I enjoy sharing the process: the theory, the experiments, the code, and what we learn when things meet real users.
+
+**Explore more code:** [Tokenizer](https://github.com/malibayram/tokenizer) · [Tokenizer Benchmark](https://github.com/malibayram/tokenizer_benchmark) · [Model Architectures](https://github.com/malibayram/model-architectures) · [Single Letter Transformers](https://github.com/malibayram/single_letter_transformers)
+
+<details>
+<summary><b>My working toolkit</b></summary>
+
+| Research & AI | Products & infrastructure |
 | :--- | :--- |
-| [**LLM from Scratch**](https://github.com/malibayram/llm-from-scratch) | A hands-on journey through building large language models. |
-| [**Turkish BERT**](https://github.com/malibayram/turkish-bert) | A PyTorch BERT implementation for Turkish, with morphology-aware tokenization. |
-| [**Tokenizer**](https://github.com/malibayram/tokenizer) | Linguistically informed tokenization for multilingual text. |
-| [**Tokenizer Benchmark**](https://github.com/malibayram/tokenizer_benchmark) | Tools and experiments for evaluating tokenizers. |
-| [**Single Letter Transformers**](https://github.com/malibayram/single_letter_transformers) | Small, from-scratch implementations of modern language model architectures. |
-| [**Model Architectures**](https://github.com/malibayram/model-architectures) | An experimental platform for prototyping and evaluating language models. |
+| Python · PyTorch · TensorFlow | Flutter · Dart · Firebase |
+| Hugging Face · Transformers | Django · Node.js · Docker |
+| Tokenization · Embeddings · Evaluation | Mobile · Web · Cloud · CI/CD |
 
-## Research & practice
+</details>
 
-**Language models** · Training, fine-tuning, model merging, and evaluation for Turkish and multilingual NLP.
+## 🎬 Learn with me
 
-**Language representation** · Tokenization, morphology, embeddings, and benchmarks for language technologies.
-
-**Applied AI** · Healthcare language models and data-quality-aware learning, alongside practical applications built with Flutter and cloud services.
-
-**Teaching & open source** · Courses, demonstrations, and code that make machine learning and software development easier to explore.
-
-## Tools I work with
-
-`Python` &nbsp; `PyTorch` &nbsp; `TensorFlow` &nbsp; `Hugging Face` &nbsp; `Flutter` &nbsp; `Dart` &nbsp; `Firebase` &nbsp; `Docker`
-
-## Latest videos
+[YouTube](https://www.youtube.com/channel/UC6xZXR2zd76Jx13-3u39wQA) · [Magibu Academy](https://magibu.ai)
 
 <!-- BLOG-POST-LIST:START -->
 - [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 5, Gün 2: Final ve Türkçe Foundation Model Vizyonu](https://www.youtube.com/watch?v=mmb-9wMNj6s)
@@ -49,4 +89,6 @@ I'm especially interested in tokenization, model adaptation and evaluation, heal
 
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><sub>Building, learning, and sharing — one experiment at a time.</sub></p>
+---
+
+<p align="center"><b>Have an interesting language problem or something useful to build?</b><br/>Let's connect on <a href="https://www.linkedin.com/in/mehmetalibayram/">LinkedIn</a> or <a href="mailto:malibayram20@gmail.com">email</a>.</p>
