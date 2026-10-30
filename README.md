@@ -46,6 +46,7 @@ I'm especially interested in tokenization, model adaptation and evaluation, heal
 - [MAGIBU Makale Okuma Oturumu: Byte Flow Network ve Yeni Nesil Tokenizer Mimarileri](https://www.youtube.com/watch?v=nwXJAzr5iEQ)
 - [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 4, Gün 2: RAG, Chunking ve Vektör Veritabanları](https://www.youtube.com/watch?v=X8hvbvCigzc)
 - [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 4, Gün 1: Embedding Modelleri ve Anlamsal Arama](https://www.youtube.com/watch?v=LNkSTDezw8g)
+
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><sub>Building, learning, and sharing — one experiment at a time.</sub></p>
