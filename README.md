@@ -1,166 +1,51 @@
-<h1 align="center">Ali Bayram</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+PhD+Candidate;NLP+%26+LLM+Researcher;Multilingual+AI+%26+Low-Resource+Languages;Turkish+MMLU+Benchmark+Creator;Medical+AI+%26+Healthcare+NLP" alt="Typing SVG" />
+  <img src="assets/profile-banner.svg" alt="Ali Bayram — language, intelligence, and software" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/malibayram21" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/malibayram21?logo=twitter&style=for-the-badge&color=58A6FF&logoColor=white" alt="Twitter" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=malibayram&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <a href="https://huggingface.co/alibayram">Hugging Face</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/mehmetalibayram">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/channel/UC6xZXR2zd76Jx13-3u39wQA">YouTube</a> &nbsp;·&nbsp;
+  <a href="mailto:malibayram20@gmail.com">Email</a>
 </p>
 
----
+I work at the intersection of **language models, multilingual NLP, and software engineering**. My research explores how language models can better represent Turkish and other languages, while my engineering work turns ideas into useful applications and learning tools.
 
-## About Me
+I'm especially interested in tokenization, model adaptation and evaluation, healthcare NLP, and making AI concepts accessible through open-source projects and teaching.
 
-I am a **Computer Engineering PhD candidate** at **Yıldız Technical University** (expected 2025), combining cutting-edge **NLP research** with extensive **production engineering experience** in mobile and backend systems.
+## Selected work
 
-My work uniquely bridges **AI research** and **real-world software engineering**—from developing Turkish LLMs and medical AI systems to architecting scalable **Flutter applications** and cloud-based backends. I specialize in **LLM fine-tuning**, **adaptive learning**, and **model merging** for low-resource languages, while maintaining deep expertise in **cross-platform mobile development** and **full-stack architecture**.
+| Project | What you'll find |
+| :--- | :--- |
+| [**LLM from Scratch**](https://github.com/malibayram/llm-from-scratch) | A hands-on journey through building large language models. |
+| [**Turkish BERT**](https://github.com/malibayram/turkish-bert) | A PyTorch BERT implementation for Turkish, with morphology-aware tokenization. |
+| [**Tokenizer**](https://github.com/malibayram/tokenizer) | Linguistically informed tokenization for multilingual text. |
+| [**Tokenizer Benchmark**](https://github.com/malibayram/tokenizer_benchmark) | Tools and experiments for evaluating tokenizers. |
+| [**Single Letter Transformers**](https://github.com/malibayram/single_letter_transformers) | Small, from-scratch implementations of modern language model architectures. |
+| [**Model Architectures**](https://github.com/malibayram/model-architectures) | An experimental platform for prototyping and evaluating language models. |
 
-**Research Focus:**
+## Research & practice
 
-- **NLP for Low-Resource Languages** (Turkish, Kurdish, Arabic)
-- **Large Language Model Development** (LLM training, fine-tuning, evaluation)
-- **Medical AI & Healthcare NLP** (Patient-doctor Q&A, clinical text processing)
-- **Multilingual Tokenization** (Morphologically-aware, semantic-preserving tokenizers)
-- **Benchmark Development** (Turkish MMLU - 6,200 questions across 62 sections)
+**Language models** · Training, fine-tuning, model merging, and evaluation for Turkish and multilingual NLP.
 
-**Engineering Expertise:**
+**Language representation** · Tokenization, morphology, embeddings, and benchmarks for language technologies.
 
-- **Flutter & Dart** (Cross-platform mobile development, state management, advanced architectures)
-- **Mobile AI Integration** (On-device ML, TensorFlow Lite, intelligent mobile applications)
-- **Backend Systems** (Firebase, Django, Node.js, scalable cloud architectures)
-- **Full-Stack Development** (React, Angular, Swift for iOS-native features)
-- **DevOps & CI/CD** (Docker, automated deployments, production pipelines)
+**Applied AI** · Healthcare language models and data-quality-aware learning, alongside practical applications built with Flutter and cloud services.
 
-**International Experience:**
+**Teaching & open source** · Courses, demonstrations, and code that make machine learning and software development easier to explore.
 
-- 🇵🇹 Visiting PhD Researcher, Instituto Politécnico de Tomar (Erasmus, 2023)
-- 🇬🇷 MSc Exchange, Aristotle University of Thessaloniki (Erasmus, 2020)
+## Tools I work with
 
-**Languages:**
-🗣️ Turkish, Kurdish (Native) | English, Arabic (Fluent) | Persian, Zazaki (Conversational)
+`Python` &nbsp; `PyTorch` &nbsp; `TensorFlow` &nbsp; `Hugging Face` &nbsp; `Flutter` &nbsp; `Dart` &nbsp; `Firebase` &nbsp; `Docker`
 
-📫 **Contact:** malibayram20@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/mehmetalibayram) | 🤗 [Hugging Face](https://huggingface.co/alibayram)
+## Latest videos
 
----
+<!-- BLOG-POST-LIST:START -->
+- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 5, Gün 2: Final ve Türkçe Foundation Model Vizyonu](https://www.youtube.com/watch?v=mmb-9wMNj6s)
+- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 5, Gün 1: Tool Call, Code Execution](https://www.youtube.com/watch?v=0ACbr-fNWv0)
+- [MAGIBU Makale Okuma Oturumu: Byte Flow Network ve Yeni Nesil Tokenizer Mimarileri](https://www.youtube.com/watch?v=nwXJAzr5iEQ)
+- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 4, Gün 2: RAG, Chunking ve Vektör Veritabanları](https://www.youtube.com/watch?v=X8hvbvCigzc)
+- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 4, Gün 1: Embedding Modelleri ve Anlamsal Arama](https://www.youtube.com/watch?v=LNkSTDezw8g)
+<!-- BLOG-POST-LIST:END -->
 
-## Featured Research & Publications
-
-### 🏥 Healthcare-Focused Turkish LLM
-
-**"Training on Real Patient-Doctor Q&A Data"**
-
-- Fine-tuned Llama 3 (8B) on 167k+ authentic patient-doctor dialogues
-- Applied LoRA adapters & SLerp merges for knowledge retention
-- Evaluated against GPT-3.5 with expert clinical feedback
-- Developed **Doctor-Llama** & **DoctorGemma** model series
-
-### 📊 Turkish MMLU Benchmark
-
-**"Setting Standards in Turkish NLP: TurkishMMLU for Large Language Model Evaluation"**
-
-- Created comprehensive **6,200-question benchmark** from 280k+ questions
-- Covers **62 sections**, **67 disciplines**, **800+ topics**
-- Established first standardized evaluation framework for Turkish LLMs
-- Improved tokenization quality and cross-domain semantic understanding
-
-### 🎯 Adaptive Learning Rate Research
-
-**"Data Quality-Based Adaptive Learning Rate: A Case Study on Medical Text Classification"** (Conference Paper)
-
-- Developed dynamic learning rate mechanism tied to content quality
-- Applied to 167k medical dataset, improving convergence and accuracy
-- Enhanced efficiency for specialized NLP applications
-
-### 🔬 Open Source Contributions
-
-- **Tokenizer Projects:** Linguistically-informed tokenizers for Turkish & morphologically-rich languages
-  - [github.com/malibayram/tokenizer](https://github.com/malibayram/tokenizer)
-  - [github.com/malibayram/tokenizer_benchmark](https://github.com/malibayram/tokenizer_benchmark)
-- **Model Architectures:** Attention mechanisms, embeddings, and performance profiling
-  - [github.com/malibayram/model-architectures](https://github.com/malibayram/model-architectures)
-
-### 👨‍🏫 Teaching & Content Creation
-
-- **Udemy & YouTube Instructor:** Creating comprehensive courses on Flutter, mobile development, and AI
-- **Research Assistant:** Yeditepe University - Teaching AI, programming, and ML fundamentals
-- **Mentorship:** Leading Flutter, Android, and NLP bootcamps and developer communities
-- **Technical Content:** Producing educational materials for thousands of learners worldwide
-
----
-
-## Tech Stack & Research Tools
-
-### Mobile & Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=58A6FF" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=58A6FF" alt="Dart" />
-  <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=FA7343" alt="Swift" />
-  <img src="https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
-
-**Mobile Expertise:** Advanced Flutter architectures • State management (Bloc, Provider, Riverpod) • Native platform integration • Performance optimization • Firebase integration
-
-### AI, NLP & Backend Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</p>
-
-**AI Research:** LLM Training & Fine-tuning • Transformers • LoRA Adapters • Model Merging • Tokenization • MMLU Benchmarking • Multi-GPU Training
-
-**Backend & Cloud:** RESTful APIs • Microservices • Real-time databases • Cloud Functions • Scalable architectures • CI/CD pipelines
-
----
-
-## Latest YouTube Videos
-
-<!-- BLOG-POST-LIST:START -->- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 5, Gün 2: Final ve Türkçe Foundation Model Vizyonu](https://www.youtube.com/watch?v=mmb-9wMNj6s)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 5, Gün 1: Tool Call, Code Execution](https://www.youtube.com/watch?v=0ACbr-fNWv0)- [MAGIBU Makale Okuma Oturumu: Byte Flow Network ve Yeni Nesil Tokenizer Mimarileri](https://www.youtube.com/watch?v=nwXJAzr5iEQ)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 4, Gün 2: RAG, Chunking ve Vektör Veritabanları](https://www.youtube.com/watch?v=X8hvbvCigzc)- [Magibu Uygulamalı Yapay Zekâ Mimarisi | Hafta 4, Gün 1: Embedding Modelleri ve Anlamsal Arama](https://www.youtube.com/watch?v=LNkSTDezw8g)<!-- BLOG-POST-LIST:END -->
-
-_This section automatically updates with my latest content via GitHub Actions._
-
----
-
-## GitHub & Research Activity
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malibayram&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github)](https://github.com/malibayram)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=malibayram&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)](https://github.com/malibayram)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malibayram&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8)](https://github.com/malibayram)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=malibayram&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/malibayram)
-
-</div>
-
----
-
-## Coding Activity
-
-<!-- WAKATIME:START -->
-<!-- WAKATIME:END -->
-
-_Automatically updated daily with WakaTime statistics._
-
----
-
-<p align="center">
-  <i>"Bridging linguistic diversity and computational intelligence to build AI systems that understand and serve multilingual communities."</i>
-</p>
+<p align="center"><sub>Building, learning, and sharing — one experiment at a time.</sub></p>

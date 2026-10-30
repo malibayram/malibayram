@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-youtube:
     name: Update README with latest YouTube videos
@@ -19,4 +22,5 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6xZXR2zd76Jx13-3u39wQA"
           max_post_count: 5
-          template: "- [$title]($url)"
+          template: "- [$title]($url)$newline"
+          tag_post_pre_newline: true

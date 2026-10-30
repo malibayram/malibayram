@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Ali Bayram — language, intelligence, and software</title><desc id="desc">Dark navy banner with a network of connected nodes and a turquoise accent.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c33"/><stop offset="1" stop-color="#07111f"/></linearGradient><linearGradient id="line"><stop stop-color="#48d7c6"/><stop offset="1" stop-color="#739cff"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<path d="M0 264H1200" stroke="#263952"/><path d="M74 70h58" stroke="#50d9c7" stroke-width="4" stroke-linecap="round"/>
+<text x="74" y="130" fill="#f3f7ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Ali Bayram</text>
+<text x="76" y="174" fill="#a9bdd3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="1">LANGUAGE  ·  INTELLIGENCE  ·  SOFTWARE</text>
+<text x="76" y="235" fill="#62ddcb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">RESEARCH  /  BUILD  /  SHARE</text>
+<g fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".5"><path d="M815 56 916 90 1010 50 1107 106 1047 191 1135 239M815 56 790 145 868 215 916 90 962 166 1010 50M790 145 962 166 868 215 992 251 1047 191 962 166 1107 106M868 215 815 56M992 251 1135 239"/></g>
+<g fill="#60dfce"><circle cx="815" cy="56" r="5"/><circle cx="916" cy="90" r="6"/><circle cx="1010" cy="50" r="4"/><circle cx="1107" cy="106" r="5"/><circle cx="790" cy="145" r="4"/><circle cx="962" cy="166" r="7"/><circle cx="1047" cy="191" r="5"/><circle cx="868" cy="215" r="5"/><circle cx="992" cy="251" r="4"/><circle cx="1135" cy="239" r="4"/></g>
+</svg>
