@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
-<title id="title">Ali Bayram, PhD — AI researcher and product builder</title>
+<title id="title">Ali Bayram — AI researcher and product builder</title>
 <desc id="desc">Research that becomes software. A colourful illustration connects Turkish words, model representations, and applications.</desc>
 <defs>
  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#16142f"/><stop offset="1" stop-color="#0b1931"/></linearGradient>
@@ -11,7 +11,7 @@
 <circle cx="1180" cy="25" r="190" fill="#9a63ff" opacity=".08"/>
 <circle cx="890" cy="440" r="160" fill="#24d6dd" opacity=".06"/>
 <rect x="56" y="46" width="8" height="22" rx="4" fill="#ff86bd"/>
-<text x="80" y="64" fill="#ece8ff" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600">Ali Bayram, PhD</text>
+<text x="80" y="64" fill="#ece8ff" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600">Ali Bayram</text>
 <text x="56" y="153" fill="#fbfaff" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="750" letter-spacing="-2">Research that</text>
 <text x="56" y="225" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="750" letter-spacing="-2">becomes software.</text>
 <text x="59" y="279" fill="#c2c5df" font-family="Segoe UI,Arial,sans-serif" font-size="22">AI researcher · Product builder · Founder of Magibu</text>

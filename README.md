@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Ali Bayram, PhD — AI researcher, product builder, and founder of Magibu. Research that becomes software." width="100%" />
+  <img src="assets/profile-banner.svg" alt="Ali Bayram — AI researcher, product builder, and founder of Magibu. Research that becomes software." width="100%" />
 </p>
 
 <p align="center">

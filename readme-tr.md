@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/profile-banner.svg" alt="Ali Bayram, PhD — Yapay zekâ araştırmacısı, ürün geliştiricisi ve Magibu kurucusu" width="100%" /></p>
+<p align="center"><img src="assets/profile-banner.svg" alt="Ali Bayram — Yapay zekâ araştırmacısı, ürün geliştiricisi ve Magibu kurucusu" width="100%" /></p>
 <p align="center"><a href="README.md">English</a> · <b>Türkçe</b></p>
 <p align="center"><a href="https://magibu.ai"><b>Magibu ↗</b></a> &nbsp; / &nbsp; <a href="https://huggingface.co/alibayram">Modeller ve veri setleri</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/mehmetalibayram/">LinkedIn</a> &nbsp; / &nbsp; <a href="mailto:malibayram20@gmail.com">İletişim</a></p>
 
